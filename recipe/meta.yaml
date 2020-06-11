@@ -20,6 +20,7 @@ requirements:
     - pip
   run:
     - python
+    - promise
     - graphene
     - sqlalchemy
     - six
